@@ -17,6 +17,7 @@ Step 2: In terminal, within the project directory, type bundle install
 ## Technologies Used
 
 _Ruby_
+
 _Rspec_
 
 ## Licensing
